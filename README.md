@@ -2,6 +2,8 @@
 
 This is a working repo for managing the scanning and online publishing of **And all the Saints, by Andrew Colley**, which had a limited run edition in print.
 
+The project is complete and the results can be seen [here](https://musings.thruhere.net/AndAllTheSaints.html).
+
 ## Top level tasks
 
 - [X] Scan for text
